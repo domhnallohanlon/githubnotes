@@ -1,3 +1,4 @@
+
 Working with Git.
 -----------------
 
@@ -7,6 +8,21 @@ managing different versions of code that you have written. Github is an
 online-platform where you can store your source code, and keep track of
 any changes that you have made to it. Being online means that it is
 accessible from anywhere in the world with an internet connection.
+
+<!-- MarkdownTOC -->
+
+- Creating a Repository
+- Sync changes
+- Status update:
+- Creating a README file
+- Staging
+- Committing
+- Push Your Changes to GitHub
+- Try it yourself:
+
+<!-- /MarkdownTOC -->
+
+
 
 Creating a Repository
 ---------------------
